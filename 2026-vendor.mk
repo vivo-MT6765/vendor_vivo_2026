@@ -1932,11 +1932,6 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/2026/proprietary/vendor/odm/etc/vintf/manifest_fingerprint.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/vintf/manifest_fingerprint.xml \
     vendor/vivo/2026/proprietary/vendor/odm/etc/vintf/manifest_ssFingerprint.xml:$(TARGET_COPY_OUT_ODM)/odm/etc/vintf/manifest_ssFingerprint.xml \
     vendor/vivo/2026/proprietary/vendor/recovery-from-boot.p:$(TARGET_COPY_OUT_VENDOR)/recovery-from-boot.p \
-    vendor/vivo/2026/proprietary/vendor/res/images/lcd_test_00.png:$(TARGET_COPY_OUT_VENDOR)/res/images/lcd_test_00.png \
-    vendor/vivo/2026/proprietary/vendor/res/images/lcd_test_01.png:$(TARGET_COPY_OUT_VENDOR)/res/images/lcd_test_01.png \
-    vendor/vivo/2026/proprietary/vendor/res/images/lcd_test_02.png:$(TARGET_COPY_OUT_VENDOR)/res/images/lcd_test_02.png \
-    vendor/vivo/2026/proprietary/vendor/res/sound/ringtone.wav:$(TARGET_COPY_OUT_VENDOR)/res/sound/ringtone.wav \
-    vendor/vivo/2026/proprietary/vendor/res/sound/testpattern1.wav:$(TARGET_COPY_OUT_VENDOR)/res/sound/testpattern1.wav \
     vendor/vivo/2026/proprietary/vendor/ro.prop:$(TARGET_COPY_OUT_VENDOR)/ro.prop \
     vendor/vivo/2026/proprietary/vendor/rw.prop:$(TARGET_COPY_OUT_VENDOR)/rw.prop \
     vendor/vivo/2026/proprietary/vendor/wwh:$(TARGET_COPY_OUT_VENDOR)/wwh
