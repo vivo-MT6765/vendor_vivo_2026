@@ -13,5 +13,5 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/2026/proprietary/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaptX_encoder.so
 
 PRODUCT_PACKAGES += \
-    EngineerMode
+    EngineerMode \
     ImsService
